@@ -1,0 +1,10 @@
+{
+  "kind": "calendar#calendar",
+  "etag": "123445555",
+  "id": "cal123",
+  "summary":"My calendar",
+  "description": "My calendar for Jul 2017",
+  "location": "Bangalore",
+  "timeZone": "UTC"
+}
+
